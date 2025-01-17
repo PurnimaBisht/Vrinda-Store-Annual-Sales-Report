@@ -5,7 +5,7 @@ Show sales and orders in the same chart
 Which month got the highest sales and order?
 Who purchased more in 2022 - men or women?
 What are different order status in 2022?
-List top 10 states contributing to the sales?
+List top 5 states contributing to the sales?
 Relation between age and gender based in numbers of orders?
 Which channel is contributing to maximum sales?
 Highest selling category?
