@@ -1,14 +1,14 @@
 # Vrinda-Store-Annual-Sales-Report
 # Objecive - Create annual sales report of Vrinda Store for the year 2022 to understand customers and grow sales in 2023
-Sample Questions
-Show sales and orders in the same chart
-Which month got the highest sales and order? MARCH
-Who purchased more in 2022 - men or women? WOMEN (64%)
-What are different order status in 2022? DELIVERED(92%), RETURNED(3%), CANCELLED(3%), REFUNDED(2%)
-List top 5 states contributing to the sales? MAHARASHTRA(26.86%), KARNATAKA(23.77%), UTTAR PRADESH(18.91%), TELANGANA(15.38%), TAMIL NADU(15.08%)
-Relation between age and gender based in numbers of orders?
-Which channel is contributing to maximum sales? AMAZON(35.51%)
-Highest selling category in terms of number of order? SET
+Sample Questions -
+1) Show sales and orders in the same chart          
+2) Which month got the highest sales and order? MARCH          
+3) Who purchased more in 2022 - men or women? WOMEN (64%)          
+4) What are different order status in 2022? DELIVERED(92%), RETURNED(3%), CANCELLED(3%), REFUNDED(2%)          
+5) List top 5 states contributing to the sales? MAHARASHTRA(26.86%), KARNATAKA(23.77%), UTTAR PRADESH(18.91%), TELANGANA(15.38%), TAMIL NADU(15.08%)          
+6) Relation between age and gender based in numbers of orders?          
+7) Which channel is contributing to maximum sales? AMAZON(35.51%)          
+8) Highest selling category in terms of number of order? SET          
 
 # Insights -
 # Women are more likely to buy compared to Men
